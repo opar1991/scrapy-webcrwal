@@ -1,2 +1,2 @@
-# scrapy-webcrwal
-web crwal with scrapy package
+# scrapy
+web scraping with scrapy
